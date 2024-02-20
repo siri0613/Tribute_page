@@ -1,0 +1,17 @@
+html{
+    font-size:10px;
+  }
+  body{
+    text-align:center;
+    margin:0;
+  }
+  h1{
+    font-size:4rem;
+    margin-bottom:0;
+  }
+  img{
+    max-width:100%;
+    display:block;
+    height:auto;
+    margin:0 auto;
+  }
